@@ -1,0 +1,33 @@
+
+Prénom et Nom : Mustapha Bouhsen
+Numéro de dossier (NI): 910201346
+
+
+Fonctionnalités
+---------------
+/2 : Le programme recommence tant que l'utilisateur n'entre pas 0.
+     Commentaires :
+
+/1 : Gestion correcte des nombres en entrée (négatif, > 10 000)
+     Commentaires :
+
+/5 : L'approximation calculée est correcte.
+     Commentaires :
+
+/2 : Qualité du code (noms de variables, style, commentaires).
+     Commentaires :
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /10
+

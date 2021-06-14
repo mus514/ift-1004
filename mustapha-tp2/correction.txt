@@ -1,0 +1,37 @@
+Prénom et Nom :Mustapha bouhsen
+Numéro de dossier (NI):910201346
+
+
+Fonctionnalités
+---------------
+
+Partie 1
+/5 : Fonctions
+/1 : Tests unitaires
+/1 : Programme principal
+     Commentaires :
+
+Partie 2
+/4 : Fonctions
+/1 : Tests unitaires
+/1 : Programme principal
+     Commentaires :
+
+Qualité du code
+/2 : Noms des variables, style, docstrings
+     Commentaires :
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /15
+

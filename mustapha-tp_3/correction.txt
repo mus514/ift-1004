@@ -1,0 +1,70 @@
+
+Noms : Mustapha Bouhsen, Sofiane Dris
+Numéros de dossier (NI) : 910201346, 111284748
+
+
+Correction
+==========
+/1 : Position.positions_diagonales_haut()
+     Commentaires :
+
+/1 : Position.quatre_positions_diagonales()()
+     Commentaires :
+
+/1 : Position.quatre_positions_saut()
+     Commentaires :
+
+/1 : Tests unitaires de la classe Position
+     Commentaires :
+
+/1 : Damier.position_est_dans_damier()
+     Commentaires :
+
+/2 : Damier.piece_peut_se_deplacer_vers()
+     Commentaires :
+
+/2 : Damier.piece_peut_sauter_vers()
+     Commentaires :
+
+/1 : Damier.piece_peut_se_deplacer()
+     Commentaires :
+
+/1 : Damier.piece_peut_faire_une_prise()
+     Commentaires :
+
+/1 : Damier.piece_de_couleur_peut_se_deplacer()
+     Commentaires :
+
+/1 : Damier.piece_de_couleur_peut_faire_une_prise()
+     Commentaires :
+
+/3 : Damier.deplacer()
+     Commentaires :
+
+/2 : Tests unitaires de la classe Damier
+     Commentaires :
+
+/2 : Partie.position_source_valide()
+     Commentaires :
+
+/2 : Partie.position_cible_valide()
+     Commentaires :
+
+/3 : Partie.demander_positions_deplacement()
+     Commentaires :
+
+/3 : Partie.tour()
+     Commentaires :
+
+/2 : Qualité du code
+     Commentaires :
+
+
+Pénalités :
+
+
+Commentaires du correcteur :
+
+
+
+Total : /36

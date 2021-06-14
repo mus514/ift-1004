@@ -1,0 +1,26 @@
+blanc
+8
+7 0 blanc pion 
+7 2 blanc pion 
+7 4 blanc pion 
+7 6 blanc pion 
+6 1 blanc pion 
+6 3 blanc pion 
+6 5 blanc pion 
+6 7 blanc pion 
+5 0 blanc pion 
+5 2 blanc pion 
+5 6 blanc pion 
+2 1 noir pion 
+2 3 noir pion 
+2 7 noir pion 
+1 0 noir pion 
+1 2 noir pion 
+1 4 noir pion 
+1 6 noir pion 
+0 1 noir pion 
+0 3 noir pion 
+0 5 noir pion 
+0 7 noir pion 
+4 3 blanc pion 
+3 6 noir pion 

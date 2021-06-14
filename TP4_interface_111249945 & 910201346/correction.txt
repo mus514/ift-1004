@@ -1,0 +1,82 @@
+
+Noms : Andreanne Lapointe & Mustapha Bouhsen
+Numéros de dossier (NI) : 111249945, 910201346
+
+Correction
+==========
+
+Fonctionnalités obligatoires
+----------------------------
+- Les pièces peuvent être déplacées sur le damier
+- Les déplacements invalides ne sont pas acceptés
+- On peut choisir une nouvelle pièce source après un mouvement invalide
+- Si une prise est possible, elle est obligatoire 
+- Les prises multiples sont gérées correctement
+- Le tour des joueurs est alterné correctement
+- On peut créer une nouvelle partie
+- On peut quitter le jeu
+- Une rétroaction est donnée à l'utilisateur (messages)
+- Affiche la couleur du joueur qui doit faire un déplacement (tour courant) 
+
+Commentaires:
+
+Total: /40
+
+Fonctionnalités facultatives
+
+
+
+
+
+
+
+
+----------------------------
+
+IMPORTANT:
+Indiquez ici la liste des fonctionnalités (avec leur numéro et nom) que vous avez implémentées. 
+
+- # 01 : Option lire les règlements du jeu
+- # 03 : Calcul et affichage des statistiques de jeu
+- # 11 : Permettre de changer le thème (couleur)
+- # 13 : Annuler le dernier mouvement
+- # 16 : Choix des dimensions du damier
+- # 18 : Sauvegarder la partie dans un fichier texte
+- # 19 : Charger la partie à partie d'un fichier texte.
+
+
+Commentaires:
+
+Total: /30
+
+
+Qualité du code
+---------------
+- Respect des normes de programmation
+- Documentation du programme
+
+Commentaires:
+
+Total: /10
+
+
+Rapport écrit (fichier rapport.pdf)
+-----------------------------------
+- Description et justification des choix de modélisations
+- Description et justification des modifications au code fourni 
+- Qualité de la langue 
+
+Commentaires:
+
+Total: /20
+
+
+Pénalités
+---------
+
+
+Commentaires du correcteur
+--------------------------
+
+
+Total : /100
